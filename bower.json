@@ -1,8 +1,8 @@
 {
-    "name": "angular-file-upload",
-    "version": "0.3.1",
+    "name": "angular-file-upload-ceky",
+    "version": "0.3.2",
     "main": "angular-file-upload.js",
-    "homepage": "https://github.com/nervgh/angular-file-upload",
+    "homepage": "https://github.com/nervgh/angular-file-upload-ceky",
     "ignore": [],
     "dependencies": {
         "angular": "1.0.8",
