@@ -5,7 +5,7 @@
     "homepage": "https://github.com/nervgh/angular-file-upload-ceky",
     "ignore": [],
     "dependencies": {
-        "angular": "1.2.0",
+        "angular": "1.2.16",
         "es5-shim": "~2.1.0",
         "jquery": "~1.9.1"
     },
